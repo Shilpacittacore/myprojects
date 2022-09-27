@@ -5,4 +5,7 @@ public class contactControllercls {
                 [SELECT Id, Name, Phone, Email FROM Contact];
         return contacts;
 }
+    public static String SayHello(){
+        return 'SayHello';
+    }
 }
