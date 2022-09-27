@@ -8,4 +8,8 @@ public class contactControllercls {
     public static String SayHello(){
         return 'SayHello';
     }
+    public static String SayHi(){
+        return 'SayHi';
+    }
+
 }
